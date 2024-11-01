@@ -1,0 +1,79 @@
+.phoen_general_detail {
+    display: inline-block;
+    width: 33%;
+}
+
+.phoen_billing_detail {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+}
+
+.phoen_shipping_detail {
+    display: inline-block;
+    vertical-align: top;
+    width: 33%;
+}
+
+.product_subs_data span {
+    display: inline-block;
+    width: 33%;
+}
+
+.product_subs_head span {
+    display: inline-block;
+    width: 33%;
+}
+.phoen_general_detail  p label,
+.phoen_billing_detail p label,
+.phoen_shipping_detail p label {
+    display: inline-block;
+    margin-right: 10px;
+}
+.phoen_general_detail p span,
+.phoen_billing_detail p span,
+.phoen_shipping_detail p span {
+    display: inline-block;
+    vertical-align: top;
+}
+
+.phoen_prosub_active
+{
+	text-align:center;
+	background-color:#69bd53; 
+	color:white;
+	 border-radius: 7px;
+     padding: 2px 10px;
+	 margin: 14px 0;
+}
+
+.phoen_prosub_expire
+{
+	text-align:center;
+	background-color:#f04c4b; 
+	color:white;
+	 border-radius: 7px;
+     padding: 2px 10px;
+	 margin: 14px 0;
+}
+.phoen_prosub_processing
+{
+	text-align:center;
+	background-color:orange; 
+	color:white;
+	 border-radius: 7px;
+     padding: 2px 10px;
+	 margin: 14px 0;
+}
+
+.phoen_prosub_default
+{
+	
+	text-align:center;
+	background-color:gray; 
+	color:white;
+	 border-radius: 7px;
+     padding: 2px 10px;
+	 margin: 14px 0;
+	
+}
